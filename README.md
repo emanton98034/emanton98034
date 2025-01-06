@@ -21,3 +21,4 @@ Improve error handling
 Improve performance
 Rewrite function Y
 Update configuration
+Add documentation

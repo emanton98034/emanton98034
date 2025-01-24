@@ -23,3 +23,4 @@ Rewrite function Y
 Update configuration
 Add documentation
 Change theme color
+Add test cases

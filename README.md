@@ -20,3 +20,4 @@ Fix broken link
 Improve error handling
 Improve performance
 Rewrite function Y
+Update configuration

@@ -18,3 +18,4 @@ Improve logging
 Add new utility script
 Fix broken link
 Improve error handling
+Improve performance

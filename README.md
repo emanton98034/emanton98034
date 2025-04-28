@@ -28,3 +28,4 @@ Fix broken link
 Update configuration
 Add documentation
 Improve error handling
+Add test cases

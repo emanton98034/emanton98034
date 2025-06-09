@@ -27,3 +27,4 @@ Add test cases
 Fix broken link
 Update configuration
 Add documentation
+Improve error handling
